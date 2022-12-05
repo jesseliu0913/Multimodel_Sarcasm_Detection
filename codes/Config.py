@@ -19,7 +19,7 @@ model = BertModel.from_pretrained('bert-base-uncased')
 
 train_fraction = 0.8
 val_fraction = 0.1
-batch_size = 2
+batch_size = 32
 
 
 # text encoder
