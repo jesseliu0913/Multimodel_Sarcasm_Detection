@@ -1,4 +1,4 @@
-# Multimodel_Sacasm_Detection
+# Multimodel_Sarcasm_Detection
 Here is my undergraduate thesis (2022.6)</br>
 Text - BERT Pre-train model </br>
 Image - ResNet50 Pre-train model </br>
