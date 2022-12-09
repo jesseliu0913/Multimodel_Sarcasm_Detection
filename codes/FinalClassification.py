@@ -70,6 +70,8 @@ if __name__ == '__main__':
 
 
         # 测试
+#         model_path = "./models"
+#         model = torch.load(model_path, map_location=torch.device('cpu'))
         total_test_loss = 0
         total_accuracy = 0
 
